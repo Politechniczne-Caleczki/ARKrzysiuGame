@@ -19,10 +19,9 @@ ExportedObj/
 *.svd
 *.info
 
-/meta/
-/library/
-/Library/
-/Temp/
+/ARKrzysiuGame/meta/*
+/ARKrzysiuGame/Library/*
+/ARKrzysiuGame/Temp/*
 
 # Unity3D generated meta files
 *.pidb.meta
